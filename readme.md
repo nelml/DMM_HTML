@@ -1,1 +1,2 @@
 readme
+本リポジトリにはDMM_WEB_CAMPにて学習したHTMLについての知識を残す。
