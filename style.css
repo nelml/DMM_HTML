@@ -1,0 +1,17 @@
+body {
+	line-height: 32px;
+}
+#title {
+	font-size: 32px;
+	color: #996200;
+	font-weight: bold;
+}
+
+.h2 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.p {
+
+}
