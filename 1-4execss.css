@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+	background-color: red;
+
+}
+
+.main_visual {
+	width: 100%;
+	height: 500px;
+	background-color: orange;
+
+}
+
+/*.main_visual_box {
+
+}*/
+
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.main {
+	width: 960px;
+	background-color: #00ff00;
+}
+
+.box1 {
+	width: 230px;
+	height: 1400px;
+	float: left;
+	background-color: limegreen;
+}
+
+.box2 {
+	width: 230px;
+	height: 1400px;
+	float: right;
+	background-color: limegreen;
+}
+
+.footer {
+	width: 100%;
+	height: 100px;
+	background-color: #0000ff;
+
+}
